@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\ColorConverter\ColorConverter\bin\Debug\ColorConverter.dll
+c:\users\administrator\documents\visual studio 2010\Projects\ColorConverter\ColorConverter\bin\Debug\ColorConverter.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\ColorConverter\ColorConverter\obj\Debug\ColorConverter.dll
+c:\users\administrator\documents\visual studio 2010\Projects\ColorConverter\ColorConverter\obj\Debug\ColorConverter.pdb
