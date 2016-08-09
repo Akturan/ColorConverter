@@ -3,6 +3,7 @@ Convert System.Drawing.Color to RGB and Hex Value
 
 ```
 using ColorConverter;
+using System.Drawing;
 ```
 
 ```
